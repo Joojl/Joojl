@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Joojl
-- 👀 I’m interested in computers, motorcycles, friends and family
-- 🌱 I’m currently learning to handle my constant headache called Java
-- 💞️ I’m looking to collaborate on anything that may improve my non existent skill
+- 👀 I’m interested in software, hardware, motorcycles, friends and family
+- 🌱 I’m currently improving my Java skills
 - 📫 How to reach me: joeln.93@gmail.com or in other parts of cyberspace
 
 <!---
